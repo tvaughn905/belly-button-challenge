@@ -12,13 +12,23 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 A drop down was added to be able to select the test subject's ID no. 
-<img src="https://github.com/tvaughn905/belly-button-challenge/blob/main/Starter_Code/Images/dropdown.jpg" 
-width=100% height=100%>
+
+
+<img src="https://github.com/tvaughn905/belly-button-challenge/blob/main/Starter_Code/Images/dropdown.png" 
+width=10% height=10%>
+
+
+<img src="https://github.com/tvaughn905/belly-button-challenge/blob/main/Starter_Code/Images/hw03.png" 
+width=10% height=10%>
 
 When selected, demographic info is displayed about the subject along with additional information about the study on that subject. The dashboard will display in different graphs the results of the study for the selected subject as indicated below...
 
 * Top 10 OTUs Present
 * Bacteria Per Sample
 * Belly Button Washing Frequency
+
+<img src="https://github.com/tvaughn905/belly-button-challenge/blob/main/Starter_Code/Images/hw02.png" 
+width=60% height=60%>
+
 
 This case by case view provides a pleasing perspective of a not too pleasing subject.
